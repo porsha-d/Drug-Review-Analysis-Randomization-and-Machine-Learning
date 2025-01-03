@@ -54,8 +54,8 @@ The dataset includes the following columns:
    - Feature importance analysis suggested weak predictive power of the features.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. 
 
 ## Acknowledgments
-- Data sourced from WebMD user reviews.
+- Data sourced from WebMD user reviews provided by Kaggle.
 - Analysis inspired by randomized experimental design and machine learning classification methods.
