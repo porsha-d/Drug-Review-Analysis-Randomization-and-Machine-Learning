@@ -16,6 +16,9 @@ This project explores the relationship between drug review display order and use
    - Explore the predictive power of features such as `EaseofUse`, `Effectiveness`, and `Satisfaction`.
 
 ## Dataset
+- The dataset is hosted externally due to size constraints.
+- Download it (https://drive.google.com/file/d/1NmrYgCuVpEHqPeZyBfWEt389hsiYFYo9/view?usp=sharing)
+
 The dataset includes the following columns:
 - `Age`: Age of the reviewer.
 - `Condition`: Condition being treated.
